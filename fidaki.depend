@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1388892454 source:/home/nicktgr15/workspace/fidaki/fidaki/main.cpp
+	<iostream>
+	"Fidaki.h"
+	"Config.h"
+	"Snake.h"
+
+1388883831 /home/nicktgr15/workspace/fidaki/fidaki/include/fidaki.h
+	"Config.h"
+	<iostream>
+
+1388878485 source:/home/nicktgr15/workspace/fidaki/fidaki/src/config.cpp
+
+1388879299 source:/home/nicktgr15/workspace/fidaki/fidaki/src/fidaki.cpp
+	"fidaki.h"
+	<iostream>
+	"config.h"
+
+1388881901 /home/nicktgr15/workspace/fidaki/fidaki/include/config.h
+
+1388879683 source:/home/nicktgr15/workspace/fidaki/fidaki/src/userInterface.cpp
+	"userInterface.h"
+
+1388879683 /home/nicktgr15/workspace/fidaki/fidaki/include/userInterface.h
+
+1388882595 /home/nicktgr15/workspace/fidaki/fidaki/include/Config.h
+
+1388889613 source:/home/nicktgr15/workspace/fidaki/fidaki/src/Stair.cpp
+	"Stair.h"
+
+1388889752 /home/nicktgr15/workspace/fidaki/fidaki/include/Stair.h
+
+1388891885 /home/nicktgr15/workspace/fidaki/fidaki/include/Snake.h
+
+1388885112 source:/home/nicktgr15/workspace/fidaki/fidaki/src/Config.cpp
+	"Config.h"
+	<iostream>
+
+1388891505 source:/home/nicktgr15/workspace/fidaki/fidaki/src/Snake.cpp
+	"Snake.h"
+
+1388892463 /home/nicktgr15/workspace/fidaki/fidaki/include/Fidaki.h
+	"Config.h"
+	<iostream>
+	"Player.h"
+	"Snake.h"
+	<vector>
+	"Stair.h"
+
+1388892574 source:/home/nicktgr15/workspace/fidaki/fidaki/src/Fidaki.cpp
+	"Fidaki.h"
+	<iostream>
+	"Player.h"
+	<stdlib.h>
+	<limits>
+
+1388892542 /home/nicktgr15/workspace/fidaki/fidaki/include/Player.h
+	<string>
+
+1388892582 source:/home/nicktgr15/workspace/fidaki/fidaki/src/Player.cpp
+	"Player.h"
+	<string>
+	<iostream>
+
+1388892582 source:d:\fidaki\src\player.cpp
+	"Player.h"
+	<string>
+	<iostream>
+
+1388892542 d:\fidaki\include\player.h
+	<string>
+
+1388891505 source:d:\fidaki\src\snake.cpp
+	"Snake.h"
+
+1388891885 d:\fidaki\include\snake.h
+
+1388889613 source:d:\fidaki\src\stair.cpp
+	"Stair.h"
+
+1388889752 d:\fidaki\include\stair.h
+
+1388893262 source:d:\fidaki\main.cpp
+	<iostream>
+	"Fidaki.h"
+	"Config.h"
+	"Snake.h"
+
+1388883831 d:\fidaki\include\fidaki.h
+	"Config.h"
+	<iostream>
+	"Player.h"
+	"Snake.h"
+	<vector>
+	"Stair.h"
+
+1388881901 d:\fidaki\include\config.h
+
+1388884139 source:d:\fidaki\src\fidaki.cpp
+	"Fidaki.h"
+	<iostream>
+	"Player.h"
+	<stdlib.h>
+	<limits>
+	<time.h>
+

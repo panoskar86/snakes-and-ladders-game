@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include/Fidaki.h" open="1" top="0" tabpos="6">
+		<Cursor position="165" topLine="0" />
+	</File>
+	<File name="include/Player.h" open="1" top="0" tabpos="8">
+		<Cursor position="208" topLine="0" />
+	</File>
+	<File name="include/Snake.h" open="1" top="0" tabpos="4">
+		<Cursor position="204" topLine="0" />
+	</File>
+	<File name="include/Stair.h" open="1" top="0" tabpos="2">
+		<Cursor position="254" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="187" topLine="0" />
+	</File>
+	<File name="src/Fidaki.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="383" topLine="3" />
+	</File>
+	<File name="src/Player.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="339" topLine="0" />
+	</File>
+	<File name="src/Snake.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="226" topLine="0" />
+	</File>
+	<File name="src/Stair.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="105" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
